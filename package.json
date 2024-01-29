@@ -1,0 +1,32 @@
+{
+  "name": "solarpunk-today",
+  "private": true,
+  "description": "How to be a solarpunk today",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahdinosaur/solarpunk-today.git"
+  },
+  "author": "Mikey Williams <hello@mikey.nz>",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/solarpunk-today/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/solarpunk-today#readme",
+  "dependencies": {
+    "next": "^13.0.6",
+    "nextra": "^2.13.2",
+    "nextra-theme-docs": "^2.13.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "title": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "typescript": "^4.9.3"
+  }
+}

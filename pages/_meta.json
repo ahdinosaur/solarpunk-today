@@ -1,0 +1,29 @@
+{
+  "index": "Intro",
+  "why": {
+    "title": "Why"
+  },
+  "---": {
+    "type": "separator"
+  },
+  "communication": "Communication",
+  "construction": "Construction",
+  "energy": "Energy",
+  "emergency": "Emergency",
+  "food": "Food",
+  "garden": "Garden",
+  "hvac": "HVAC",
+  "hygiene": "Hygiene",
+  "reduce": "Reduce",
+  "reuse": "Re-use",
+  "textile": "Textile",
+  "transport": "Transport",
+  "water": "Water",
+  "waste": "Waste",
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://mikey.nz",
+    "newWindow": true
+  }
+}
