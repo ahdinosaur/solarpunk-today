@@ -1,6 +1,8 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
+import { components } from './components/mdx'
+
 const config: DocsThemeConfig = {
   logo: <span>Solarpunk Today</span>,
   docsRepositoryBase: 'https://github.com/ahdinosaur/solarpunk-today',
@@ -15,7 +17,8 @@ const config: DocsThemeConfig = {
       titleTemplate: '%s – Solarpunk Today',
       description: "How to live a solarpunk lifestyle today. Practical climate adaptations for everyday people.",
     }
-  }
+  },
+  components,
 }
 
 export default config

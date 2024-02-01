@@ -1,10 +1,10 @@
 {
   "3d-print": "3d Print",
-  "aluminium-extrusion": "Aluminium Extrusion",
   "bamboo": "Bamboo",
   "grid-beam": "Grid Beam",
   "knot": "Knot",
   "laser-cut": "Laser Cut",
   "lash": "Lash",
-  "sheet-metal": "Sheet Metal"
+  "sheet-metal": "Sheet Metal",
+  "t-slot": "T Slot"
 }
