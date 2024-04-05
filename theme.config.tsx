@@ -7,7 +7,7 @@ const config: DocsThemeConfig = {
   logo: <span>Solarpunk Today</span>,
   docsRepositoryBase: 'https://github.com/ahdinosaur/solarpunk-today/tree/main',
   project: {
-    link: 'https://solarpunktoday.com',
+    link: 'https://github.com/ahdinosaur/solarpunk-today',
   },
   footer: {
     text: 'Solarpunk Today',
