@@ -12,18 +12,20 @@ _Work In Progress_
 
 ## Development
 
-With [`node`](https://github.com/nvm-sh/nvm) and [`pnpm`](https://pnpm.io/) installed:
+Solarpunk Today is a [Nextra](https://nextra.site/) site using [Next.js](https://nextjs.org/) and [MDX](https://mdxjs.com/).
+
+With [`node`](https://github.com/nvm-sh/nvm) installed:
 
 ```shell
 git clone git@github.com:ahdinosaur/solarpunk-today
 cd solarpunk-today
-pnpm install
+npm install
 ```
 
-To start the development server and visit localhost:3000:
+To start the development server and visit [localhost:3000](http://localhost:3000):
 
 ```shell
-pnpm dev
+npm run dev
 ```
 
 ## License
